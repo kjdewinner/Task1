@@ -2,6 +2,7 @@
 Learn to discover open ports on devices in your local network to understand network exposure.
 # Tools Used
 Nmap (TCP SYN scan)
+
 Wireshark (optional packet analysis)
 # Steps Followed
 Identified IP range using ipconfig.
