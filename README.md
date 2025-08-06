@@ -18,3 +18,7 @@ Understanding of active network scanning
 Identification of open ports and services
 
 Evaluation of security risks in a LAN environment
+#Sample Output
+![Tk nmap img](https://github.com/user-attachments/assets/b2801e7f-5ae6-4616-8141-19b301828d77)
+
+
